@@ -2,7 +2,9 @@
 ## **Python Programming Exercises**
 ## Class Sessions: 15, 20, 22, 27 January 2015
 
-### **Each homework should be submitted as a separate pull request (HW1, 2, 3 each in their own pull request). Please let us know if you have any trouble submitting pull requests before the due date. You can submit a test pull request, then edits its contents at any point up to the submission deadline.**
+### **Each homework should be submitted as a separate pull request (HW1, 2, 3 each in their own pull request). Please let us know if you have any trouble submitting pull requests before the due date. You can submit a test pull request, then edit its contents at any point up to the submission deadline. After the submission deadline, assignment pull requests will be closed to further edits. **
+
+### **Please use the TAG associated with the relevant assignment for each pull request belonging to that assignment. For example, for all files associated with assignment 1, please use the "HW1 (1/20) tag" **
 
 The purpose of the problems below are to introduce you to programming with Python. While we do not expect that every student will necessarily be successful in completing every exercise, we expect that you will attempt them all. We will select a student at random to present and discuss their solution to the class (whether it is complete or incomplete). Class time over the next three sessions will focus on going over solutions and devising programs (with assistance from instructors) to solve each of these problems together. The ultimate goal of this exercise is not to make you expert Python programmers, but to give you enough background that you could use Python to manipulate the types of large datasets that you will surely be generating as graduate students. Hopefully these exercises will make you interested in learning more as you progress through your graduate career.
 
