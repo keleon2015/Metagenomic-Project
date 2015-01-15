@@ -12,18 +12,18 @@ The purpose of the problems below are to introduce you to programming with Pytho
      Git is the version control software which GitHub provides a web interface & storage for. 
      Therefore you need to install Git in order to use Github.
 
-*[Windows](http://blog.davidegrayson.com/2013/04/git-and-putty-in-windows.html?m=1)*
+**[Windows](http://blog.davidegrayson.com/2013/04/git-and-putty-in-windows.html?m=1)**
 - use the **"Advanced context menu (git-cheetah-plugin)** option (In the Select Components setup portion)
     - The git-cheetah-plugin option will provide you some neat menu items, when you right click on items in your git repository when using Windows Explorer GUI.
 - use the **"Use Git Bash only option** (in the "Adjusting Your PATH Environment" setup section)
 - use the **"Checkout Windows-style, comment Unix-style line endings"** (in the "Configuring the line ending conversions" section)
 - if using Putty: use the **"Use (Tortoise)Plink"** option (in "Choosing the SSH executable" section)*
 
-*[Mac ](https://help.github.com/articles/set-up-git/)*
+**[Mac ](https://help.github.com/articles/set-up-git/)**
 
      All Git commands will be executed through Terminal or Git Bash.
 
-Helpful Github-specific instructions
+**Helpful Github-specific instructions**
 
 1. [Pull requests](https://help.github.com/articles/using-pull-requests/)
 
@@ -31,7 +31,9 @@ Helpful Github-specific instructions
 
 3. [Windows cloning repositories](https://help.github.com/articles/adding-repositories-with-github-for-windows/)
      
-    
+**[Git Commands](https://confluence.atlassian.com/display/STASH/Basic+Git+commands)**
+
+     must know "git clone, git status, git add, git commit, git pull, git push"
  
 # **Submission Instructions** 
 All assignments should be submitted as pull requests, with the appropriate tags (HW1, HW2, or HW3). 
