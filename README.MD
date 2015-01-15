@@ -23,8 +23,11 @@ The purpose of the problems below are to introduce you to programming with Pytho
      
 
 Helpful Github-specific instructions
+
 1. [Pull requests](https://help.github.com/articles/using-pull-requests/)
+
 2. [Mac cloning repositories](https://help.github.com/articles/working-with-repositories/)
+
 3. [Windows cloning repositories](https://help.github.com/articles/adding-repositories-with-github-for-windows/)
      
     All Git commands will be executed through Terminal or Git Bash.
