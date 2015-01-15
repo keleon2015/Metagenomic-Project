@@ -2,15 +2,11 @@
 ## **Python Programming Exercises**
 ## Class Sessions: 15, 20, 22, 27 January 2015
 
-### **Each homework should be submitted as a separate pull request (HW1, 2, 3 each in their own pull request). Please let us know if you have any trouble submitting pull requests before the due date. You can submit a test pull request, then edit its contents at any point up to the submission deadline. After the submission deadline, assignment pull requests will be closed to further edits. **
-
-### **Please use the TAG associated with the relevant assignment for each pull request belonging to that assignment. For example, for all files associated with assignment 1, please use the "HW1 (1/20) tag" Further Submission information below**
+**Each homework should be submitted as a separate pull request (HW1, 2, 3 each in their own pull request). Please let us know if you have any trouble submitting pull requests before the due date. You can submit a test pull request, then edit its contents at any point up to the submission deadline. After the submission deadline, assignment pull requests will be closed to further edits.**
 
 The purpose of the problems below are to introduce you to programming with Python. While we do not expect that every student will necessarily be successful in completing every exercise, we expect that you will attempt them all. We will select a student at random to present and discuss their solution to the class (whether it is complete or incomplete). Class time over the next three sessions will focus on going over solutions and devising programs (with assistance from instructors) to solve each of these problems together. The ultimate goal of this exercise is not to make you expert Python programmers, but to give you enough background that you could use Python to manipulate the types of large datasets that you will surely be generating as graduate students. Hopefully these exercises will make you interested in learning more as you progress through your graduate career.
 
 # **Git Setup Instructions**
-     Git is the version control software which GitHub provides a web interface & storage for. 
-     Therefore you need to install Git in order to use Github.
 
 **[Windows](http://blog.davidegrayson.com/2013/04/git-and-putty-in-windows.html?m=1)**
 - use the **"Advanced context menu (git-cheetah-plugin)** option (In the Select Components setup portion)
@@ -34,10 +30,50 @@ The purpose of the problems below are to introduce you to programming with Pytho
      
 **[Git Commands](https://confluence.atlassian.com/display/STASH/Basic+Git+commands)**
 
-     must know "git clone, git status, git add, git commit, git pull, git push"
- 
+     must know "git clone", "git status", "git add", "git commit", "git push" only
+
+**Using Git Instructions** 
+
+1. Clonining a repository and changing directory into it (making a local copy of a repository stored on GitHub
+
+    `1. "git clone copied_github_address ./path/to/folder"`
+
+    `2. "cd ./path/to/folder"`
+
+2. Telling git to track a newly created file (within the repository folder on you computer)
+
+     `"git add filename"`
+
+3. Commiting changes (telling git to add this to the permanent record on your local machine"
+
+     `"git commit filename -m "some message letting the world know what you did"`
+
+4. Pushing the changes to GitHub (sending your changes to the GitHub server)
+
+     `"git push origin master"`
+
+5. Issuing a pull request
+
+     `1. Open your browser, navigate to https://github.com/your_user_name/HW`
+
+     `2. Click on "Pull Requests" in the right hand bar`
+
+     `3. Click on the green "New pull request" button`
+
+     `4. Look at the files, decide if that's the state you want them in`
+
+     `5. Click on the green "Create pull request" on the left side of the screen`
+
+
 # **Submission Instructions** 
-All assignments should be submitted as pull requests, with the appropriate tags (HW1, HW2, or HW3). 
+`All assignments should be submitted as pull requests.`
+
+`Name you pull request "HW# : Your Full Name"`
+
+`You can edit any files, before the submission deadline. `
+`To make changes to your pull request, you can simply push a new change to your repository.`
+
+`To submit a pull request, push the changes you made, as instructed above`
 
 
 # **Complete by January 20, 2015 (end of day)**
