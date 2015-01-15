@@ -8,14 +8,29 @@
 
 The purpose of the problems below are to introduce you to programming with Python. While we do not expect that every student will necessarily be successful in completing every exercise, we expect that you will attempt them all. We will select a student at random to present and discuss their solution to the class (whether it is complete or incomplete). Class time over the next three sessions will focus on going over solutions and devising programs (with assistance from instructors) to solve each of these problems together. The ultimate goal of this exercise is not to make you expert Python programmers, but to give you enough background that you could use Python to manipulate the types of large datasets that you will surely be generating as graduate students. Hopefully these exercises will make you interested in learning more as you progress through your graduate career.
 
-# **Submission Instructions** 
-All assignments should be submitted as pull requests, with the appropriate tags (HW1, HW2, or HW3). Instructions:
+# **Git Setup Instructions**
+     Git is the version control software which GitHub provides a web interface & storage for. 
+     Therefore you need to install Git in order to use Github.
 
+*[Windows](http://blog.davidegrayson.com/2013/04/git-and-putty-in-windows.html?m=1)*
+- use the **"Advanced context menu (git-cheetah-plugin)** option (In the Select Components setup portion)
+    - The git-cheetah-plugin option will provide you some neat menu items, when you right click on items in your git repository when using Windows Explorer GUI.
+- use the **"Use Git Bash only option** (in the "Adjusting Your PATH Environment" setup section)
+- use the **"Checkout Windows-style, comment Unix-style line endings"** (in the "Configuring the line ending conversions" section)
+- if using Putty: use the **"Use (Tortoise)Plink"** option (in "Choosing the SSH executable" section)*
+
+*[Mac ](https://help.github.com/articles/set-up-git/)*
+     
+
+Helpful Github-specific instructions
 1. [Pull requests](https://help.github.com/articles/using-pull-requests/)
-
 2. [Mac cloning repositories](https://help.github.com/articles/working-with-repositories/)
-
 3. [Windows cloning repositories](https://help.github.com/articles/adding-repositories-with-github-for-windows/)
+     
+    All Git commands will be executed through Terminal or Git Bash.
+ 
+# **Submission Instructions** 
+All assignments should be submitted as pull requests, with the appropriate tags (HW1, HW2, or HW3). 
 
 
 # **Complete by January 20, 2015 (end of day)**
