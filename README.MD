@@ -31,6 +31,7 @@ The purpose of the problems below are to introduce you to programming with Pytho
 
 3. [Windows cloning repositories](https://help.github.com/articles/adding-repositories-with-github-for-windows/)
      
+     
 **[Git Commands](https://confluence.atlassian.com/display/STASH/Basic+Git+commands)**
 
      must know "git clone, git status, git add, git commit, git pull, git push"
