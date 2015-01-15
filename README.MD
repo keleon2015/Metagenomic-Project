@@ -20,7 +20,8 @@ The purpose of the problems below are to introduce you to programming with Pytho
 - if using Putty: use the **"Use (Tortoise)Plink"** option (in "Choosing the SSH executable" section)*
 
 *[Mac ](https://help.github.com/articles/set-up-git/)*
-    All Git commands will be executed through Terminal or Git Bash.
+
+     All Git commands will be executed through Terminal or Git Bash.
 
 Helpful Github-specific instructions
 
