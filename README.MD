@@ -34,6 +34,8 @@ The purpose of the problems below are to introduce you to programming with Pytho
 
 **Using Git Instructions** 
 
+[Video Tutorial @ ~6min](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+
 1. Clonining a repository and changing directory into it (making a local copy of a repository stored on GitHub
 
     `1. "git clone copied_github_address ./path/to/folder"`
