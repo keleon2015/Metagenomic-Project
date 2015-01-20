@@ -6,66 +6,8 @@
 
 The purpose of the problems below are to introduce you to programming with Python. While we do not expect that every student will necessarily be successful in completing every exercise, we expect that you will attempt them all. We will select a student at random to present and discuss their solution to the class (whether it is complete or incomplete). Class time over the next three sessions will focus on going over solutions and devising programs (with assistance from instructors) to solve each of these problems together. The ultimate goal of this exercise is not to make you expert Python programmers, but to give you enough background that you could use Python to manipulate the types of large datasets that you will surely be generating as graduate students. Hopefully these exercises will make you interested in learning more as you progress through your graduate career.
 
-# **Git Setup Instructions**
-
-**[Windows](http://blog.davidegrayson.com/2013/04/git-and-putty-in-windows.html?m=1)**
-- use the **"Advanced context menu (git-cheetah-plugin)** option (In the Select Components setup portion)
-    - The git-cheetah-plugin option will provide you some neat menu items, when you right click on items in your git repository when using Windows Explorer GUI.
-- use the **"Use Git Bash only option** (in the "Adjusting Your PATH Environment" setup section)
-- use the **"Checkout Windows-style, comment Unix-style line endings"** (in the "Configuring the line ending conversions" section)
-- if using Putty: use the **"Use (Tortoise)Plink"** option (in "Choosing the SSH executable" section)*
-
-**[Mac ](https://help.github.com/articles/set-up-git/)**
-
-     All Git commands will be executed through Terminal or Git Bash.
-
-**Helpful Github-specific instructions**
-
-1. [Pull requests](https://help.github.com/articles/using-pull-requests/)
-
-2. [Mac cloning repositories](https://help.github.com/articles/working-with-repositories/)
-
-3. [Windows cloning repositories](https://help.github.com/articles/adding-repositories-with-github-for-windows/)
-     
-     
-**[Git Commands](https://confluence.atlassian.com/display/STASH/Basic+Git+commands)**
-
-     must know "git clone", "git status", "git add", "git commit", "git push" only
-
-**Using Git Instructions** 
-
-[Video Tutorial @ ~6min](https://www.youtube.com/watch?v=oFYyTZwMyAg)
-
-1. Clonining a repository and changing directory into it (making a local copy of a repository stored on GitHub
-
-    `1. "git clone copied_github_address ./path/to/folder"`
-
-    `2. "cd ./path/to/folder"`
-
-2. Telling git to track a newly created file (within the repository folder on you computer)
-
-     `"git add filename"`
-
-3. Commiting changes (telling git to add this to the permanent record on your local machine"
-
-     `"git commit filename -m "some message letting the world know what you did"`
-
-4. Pushing the changes to GitHub (sending your changes to the GitHub server)
-
-     `"git push origin master"`
-
-5. Issuing a pull request
-
-     `1. Open your browser, navigate to https://github.com/your_user_name/HW`
-
-     `2. Click on "Pull Requests" in the right hand bar`
-
-     `3. Click on the green "New pull request" button`
-
-     `4. Look at the files, decide if that's the state you want them in`
-
-     `5. Click on the green "Create pull request" on the left side of the screen`
-
+# **Setup Instructions (General and Git)**
+[http://ibs574.github.io/docs/](http://ibs574.github.io/docs/)
 
 # **Submission Instructions** 
 `All assignments should be submitted as pull requests.`
