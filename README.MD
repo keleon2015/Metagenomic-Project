@@ -20,7 +20,7 @@ The purpose of the problems below are to introduce you to programming with Pytho
 `To submit a pull request, push the changes you made, as instructed above`
 
 
-# **Complete by January 20, 2015 (end of day)**
+# **Complete by January 22, 2015 (end of day)**
 ->1. Use a text editor (vi or nano) to extend the “Hello World” program to accept a name via Unix pipe and print the word “Hello”, followed by the name, followed by the word “again.” What happens when no argument is supplied? What should happen?
 
 *(Teaching Objective: basic text editing, become familiar with Unix environment, learn about commands, pipes and input/output redirection)*
